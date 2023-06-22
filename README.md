@@ -1,2 +1,2 @@
 # Tandamloop
-Solutions for Exercise given by tandamloop.
+Here i had  written in java Solutions for Exercise given by tandamloop.
